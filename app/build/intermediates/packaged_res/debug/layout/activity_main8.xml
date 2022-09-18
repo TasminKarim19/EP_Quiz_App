@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pro2"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity8">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Question no 8/10"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20sp"
+        android:background="@drawable/bgofq"
+        android:gravity="center"
+        android:text="Wine is usually ____ than beer, and it’s also ______"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <RadioGroup
+        android:id="@+id/q8myRadioGroupID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp">
+
+        <RadioButton
+            android:id="@+id/q8radioBtn1Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="stronger/expensiver"
+            android:textSize="30dp" />
+
+        <RadioButton
+            android:id="@+id/q8radioBtn2Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="stronger/more expensive"
+            android:textSize="30dp" />
+
+        <RadioButton
+            android:id="@+id/q8radioBtn3Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="strongest/most expensive"
+            android:textSize="30dp" />
+
+        <RadioButton
+            android:id="@+id/q8radioBtn4Id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="stronger/expensive "
+            android:textSize="30dp" />
+        />
+
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/btnbg"
+        android:onClick="nextFunction"
+        android:text="Ok"
+        android:textSize="30dp" />
+</LinearLayout>

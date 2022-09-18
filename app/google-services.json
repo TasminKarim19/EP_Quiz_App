@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486469276490",
+    "project_id": "checkyourenglishproficiency",
+    "storage_bucket": "checkyourenglishproficiency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486469276490:android:fbd5da9f45bf3373aea7b3",
+        "android_client_info": {
+          "package_name": "com.example.checkyourenglishproficiency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486469276490-juau7imisld3sdj6n8h1dre8lqo937jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.checkyourenglishproficiency",
+            "certificate_hash": "3bccc78a59f0c202c43b4840945417d1e0f514e3"
+          }
+        },
+        {
+          "client_id": "486469276490-qlqddk24mdklb6cbg16i9mhd127mtoid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5BV__AR9H_dVjllZXofdHLl2u3D8s7bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486469276490-qlqddk24mdklb6cbg16i9mhd127mtoid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

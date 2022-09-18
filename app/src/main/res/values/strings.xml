@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CheckYourEnglishProficiency</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question1">Question: I _____ English, and my brother _____ German.</string>
+    <string name="Ans1">Correct Answer: study/studies</string>
+    <string name="question2">Question: Give us a call when you’re in town! We’re looking forward _______ you!</string>
+    <string name="Ans2">Correct Answer: to meeting</string>
+    <string name="question3">Question: He usually ______ coffee, but right now he _______ tea.</string>
+    <string name="Ans3">Correct Answer: drinks / is drinking</string>
+    <string name="question4">Question: ________ spend the whole weekend with my cousins.</string>
+    <string name="Ans4">Correct Answer: I am going to</string>
+    <string name="question5">Question: I _____ tired of my old phone and _____ to buy a new one.</string>
+    <string name="Ans5">Correct Answer: got / decided</string>
+    <string name="question6">Question:  I used to ____ to work at 7a.m., so I’m used to ______ up early.</string>
+    <string name="Ans6">Correct Answer: go/getting</string>
+    <string name="question7">Question:  I’m sorry I didn’t pick up the phone. I was ______ a shower.</string>
+    <string name="Ans7">Correct Answer: taking</string>
+    <string name="question8">Question: Wine is usually ____ than beer, and it’s also ______.</string>
+    <string name="Ans8">Correct Answer: stronger / more expensive</string>
+    <string name="question9">Question: Jupiter is the _____ planet in our solar system. I also think it’s the _____.</string>
+    <string name="Ans9">Correct Answer: largest / most beautiful</string>
+    <string name="question10">Question: Be patient! _________ cooking dinner yet!</string>
+    <string name="Ans10">Correct Answer: I haven’t finished</string>
+</resources>
